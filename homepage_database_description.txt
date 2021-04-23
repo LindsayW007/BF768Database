@@ -3,7 +3,7 @@
 <h3> About <h/3>
 
 <p>
-The GLdb is a database of food-based compounds and human genes known to interact with the SARS-CoV-2 virus.
+The GLdb is a database of food-based compounds and human proteins known to interact with the SARS-CoV-2 virus.
 The food compounds in the database have been predicted to regulate the expression of human genes by a machine
 learning software called <a href = "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03582-7" target="_blank">PhyteByte</a>
 By potentially regulating these human genes, human proteins involved in the induction of the SARS-CoV-2 virus
@@ -11,8 +11,7 @@ are appropriately upregulated or downregulated, to reduce the chance of viral in
 </p>
 
 <p>
-The severity of COVID-19 is highly age-associated. A <a href = "https://europepmc.org/article/pmc/pmc7681045" target="_blank">LonGenity cohort study</a> identified a list of
-human genes whose expression is significantly associated with changes in chronological age. The GLdb includes
+The severity of COVID-19 is highly age-associated. A <a href = "https://europepmc.org/article/pmc/pmc7681045" target="_blank">LonGenity cohort study</a> identified a list of human genes whose expression is significantly associated with changes in chronological age. The GLdb includes
 the Longenity age-associated protein data, to identify SARS-CoV-2 related human proteins and their viral human
 protein interaction clusters (VHI) which may play a role in COVID-19 age-associated severity.
 </p>
